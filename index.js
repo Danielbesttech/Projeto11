@@ -1,3 +1,3 @@
 {
-  test: "tsete ok "
+  test: "tsete ok."
 }
